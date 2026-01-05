@@ -45,8 +45,6 @@ Professional restraint in detail application
 
 Resolution & Output Quality:
 
-Ultra-high resolution minimum 3000x4000px at 300 DPI
-
 Print-quality color depth and anti-aliasing
 
 Crisp edge definition suitable for scalability
