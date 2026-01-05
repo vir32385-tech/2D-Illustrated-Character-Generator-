@@ -19,7 +19,7 @@ prompt_1 = st.text_area(
 )
 PART 1 OF 10
 
-📋 FOUNDATIONAL FRAMEWORK & CORE PHILOSOPHY
+# (leave this line empty on purpose)
 
 🎯 PRIMARY OBJECTIVE:
 
