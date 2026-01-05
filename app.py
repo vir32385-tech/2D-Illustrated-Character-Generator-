@@ -43,8 +43,6 @@ Emotional accessibility through expression design
 
 Professional restraint in detail application
 
-🖼️ TECHNICAL SPECIFICATIONS:
-
 Resolution & Output Quality:
 
 Ultra-high resolution minimum 3000x4000px at 300 DPI
@@ -131,7 +129,7 @@ Ear height: From eyebrow line to nose base vertically
 
 Ear position: Behind jawline, aligned with eye-nose axis
 
-🎭 CHARACTER CATEGORY DEFINITIONS:
+ CHARACTER CATEGORY DEFINITIONS:
 
 The system must accommodate FOUR primary age categories with distinct anatomical and stylistic variations:
 
@@ -189,7 +187,7 @@ Grey or white hair with thinning texture
 
 More subdued posture, weight settled
 
-🧬 GENDER DIFFERENTIATION RULES:
+ GENDER DIFFERENTIATION RULES:
 
 CRITICAL: Gender-specific anatomy MUST be accurately depicted
 
@@ -247,7 +245,7 @@ Thinner, arched eyebrows (2-3px)
 
 Prominent eyelashes (4-6 individual strokes per eye)
 
-⚠️ CRITICAL COMPLIANCE RULES:
+ CRITICAL COMPLIANCE RULES:
 
 THESE ARE NON-NEGOTIABLE REQUIREMENTS:
 
@@ -267,13 +265,13 @@ Proper shading technique - Cel-shading only, hard edge transitions, no gradients
 
 Complete character - Full body from head to feet, no cropping
 
-🔥 GOD-TIER ULTRA-PROFESSIONAL 2D CHARACTER CREATION PROMPT
+ GOD-TIER ULTRA-PROFESSIONAL 2D CHARACTER CREATION PROMPT
 
 PART 2 OF 10
 
-🖊️ LINEWORK ARCHITECTURE & TECHNICAL DRAWING SYSTEMS
+ LINEWORK ARCHITECTURE & TECHNICAL DRAWING SYSTEMS
 
-📏 LINE WEIGHT HIERARCHY:
+ LINE WEIGHT HIERARCHY:
 
 Primary Outline System:
 
@@ -301,7 +299,7 @@ No line roughness, sketchiness, or hand-drawn wobble
 
 Vector-quality precision in all paths
 
-🎨 LINE COLOR & TREATMENT:
+LINE COLOR & TREATMENT:
 
 Standard Line Color:
 
@@ -331,7 +329,7 @@ Clothing edges complete and enclosed
 
 No gaps or overlaps in outline construction
 
-👤 FACIAL LINEWORK SPECIFICATIONS:
+FACIAL LINEWORK SPECIFICATIONS:
 
 Eye Construction:
 
@@ -487,7 +485,7 @@ Follows natural beard growth pattern
 
 0.5-1px marks scattered across jaw/chin/upper lip areas
 
-💇 HAIR LINEWORK SYSTEM:
+HAIR LINEWORK SYSTEM:
 
 Hair Construction Philosophy:
 
@@ -543,7 +541,7 @@ Widow's peak (optional): V-shape dip at center forehead
 
 Temples: Hair slightly recessed at sides (especially males)
 
-👔 CLOTHING LINEWORK:
+CLOTHING LINEWORK:
 
 Garment Outline System:
 
