@@ -19,22 +19,6 @@ prompt_1 = st.text_area(
 )
 PART 1 OF 10
 
-# (leave this line empty on purpose)
-
-🎯 PRIMARY OBJECTIVE:
-
-Create a professional-grade 2D character illustration in the style of high-quality mobile horror game art and animated storytelling series, specifically matching the visual aesthetic of "Kahaani Monday" and similar narrative-driven animation content. The character must appear hand-crafted by an elite Adobe Illustrator and Photoshop artist, with zero indication of AI generation. Every element must exhibit the polish, precision, and intentionality of professional digital illustration work.
-
-🎨 CORE ARTISTIC IDENTITY:
-
-Style Classification:
-
-Semi-realistic 2D character illustration
-
-Hybrid anime-western cartoon fusion aesthetic
-
-Clean vector-based construction with painterly shading overlay
-
 Cel-shaded rendering with strategic tonal depth
 
 Professional mobile game character art quality
