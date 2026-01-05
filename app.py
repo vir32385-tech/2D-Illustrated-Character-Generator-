@@ -14,8 +14,9 @@ st.write("Paste your master prompts, then generate characters")
 st.subheader("🔐 Master Prompts (Internal Use)")
 
 prompt_1 = st.text_area(
-    "Prompt 1 (🔥 GOD-TIER ULTRA-PROFESSIONAL 2D CHARACTER CREATION PROMPT
-
+    "Prompt 1 (🔥 GOD-TIER ULTRA-PROFESSIONAL 2D CHARACTER CREATION PROMPT)",
+    height=400
+)
 PART 1 OF 10
 
 📋 FOUNDATIONAL FRAMEWORK & CORE PHILOSOPHY
