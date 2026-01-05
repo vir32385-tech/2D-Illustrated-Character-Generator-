@@ -85,7 +85,7 @@ No three-quarter turns, profile views, or dynamic angles
 
 Military-straight posture unless character description specifies otherwise
 
-📐 ANATOMICAL FOUNDATION:
+ ANATOMICAL FOUNDATION:
 
 Proportional System (Adult Characters):
 
@@ -581,7 +581,7 @@ Dress neckline: Sweetheart, scoop, or straight edge, clean curves
 
 Buttons on collar: 1-2 small circles at collar points
 
-✋ HANDS & FINGERS LINEWORK:
+ HANDS & FINGERS LINEWORK:
 
 Hand Construction:
 
@@ -617,7 +617,7 @@ Clear knuckle breaks only if hand is prominent in composition
 
 Most hands in full-body view need minimal detail
 
-👟 FEET & FOOTWEAR LINEWORK:
+ FEET & FOOTWEAR LINEWORK:
 
 Shoe Construction:
 
@@ -655,7 +655,7 @@ Flat on ground plane
 
 No perspective distortion (feet same size, no foreshortening)
 
-🔧 TECHNICAL LINE QUALITY CHECKLIST:
+ TECHNICAL LINE QUALITY CHECKLIST:
 
 Every line must be: ✅ Clean - No jagged edges, smooth vector curves
 ✅ Confident - Deliberate placement, not tentative
@@ -671,13 +671,13 @@ Lines must NEVER be: ❌ Sketchy or rough
 ❌ Disconnected where should connect
 ❌ Overlapping messily
 
-🔥 GOD-TIER ULTRA-PROFESSIONAL 2D CHARACTER CREATION PROMPT
+ GOD-TIER ULTRA-PROFESSIONAL 2D CHARACTER CREATION PROMPT
 
 PART 3 OF 10
 
-🎨 COLOR THEORY, SKIN TONE SYSTEMS & SHADING ARCHITECTURE
+ COLOR THEORY, SKIN TONE SYSTEMS & SHADING ARCHITECTURE
 
-🌈 COLOR PHILOSOPHY & PRINCIPLES:
+ COLOR PHILOSOPHY & PRINCIPLES:
 
 Core Color Approach:
 
@@ -703,7 +703,7 @@ Avoid oversaturation (looks artificial)
 
 Avoid undersaturation in normal mode (looks washed out)
 
-👤 SKIN TONE SYSTEM (NORMAL CHARACTERS):
+SKIN TONE SYSTEM (NORMAL CHARACTERS):
 
 CRITICAL: Skin tone must match character's ethnicity, age, and health status
 
@@ -835,7 +835,7 @@ Warm undertones: Slight shift toward pink/peach
 
 Even tone: Less variation, more uniform color
 
-💀 SKIN TONE SYSTEM (HORROR CHARACTERS):
+SKIN TONE SYSTEM (HORROR CHARACTERS):
 
 CRITICAL: Horror skin must feel WRONG - physiologically incorrect but not obviously dead
 
@@ -919,7 +919,7 @@ Cracked skin (extreme horror): Thin black lines suggesting fissures
 
 Blood vessels: Tiny red thread-lines at nose, cheeks (broken capillaries)
 
-🎨 CEL-SHADING TECHNIQUE (THE CORE SYSTEM):
+ CEL-SHADING TECHNIQUE (THE CORE SYSTEM):
 
 This is the MOST IMPORTANT shading rule - master this completely:
 
@@ -987,7 +987,7 @@ Triangular wedges in corners (elbows, armpits)
 
 Soft ovals for rounded forms (shoulders, cheeks)
 
-👗 CLOTHING COLOR SELECTION:
+ CLOTHING COLOR SELECTION:
 
 Color Palette Strategy:
 
@@ -1031,7 +1031,7 @@ Jackets: Under lapels, inside sleeve opening, back center fold
 
 Folds: Both sides of crease line get shadow (valley shadow)
 
-💇 HAIR COLOR & SHADING:
+ HAIR COLOR & SHADING:
 
 Hair Color Palette:
 
@@ -1129,7 +1129,7 @@ Back chunks: Darker tones
 
 Creates depth perception through value alone
 
-👁️ EYE COLOR SYSTEM:
+ EYE COLOR SYSTEM:
 
 Iris Colors:
 
@@ -1229,7 +1229,7 @@ Bloodshot effect: thin red lines in sclera (optional)
 
 Hollow, sunken appearance: deeper shadow around eye socket
 
-💄 LIP COLOR SYSTEM:
+LIP COLOR SYSTEM:
 
 MALE LIPS:
 
@@ -1267,25 +1267,25 @@ Cracked texture (optional thin lines)
 
 Blood stains (optional red accents)
 
-✅ COLOR APPLICATION CHECKLIST:
+COLOR APPLICATION CHECKLIST:
 
 Every color zone must have: ✅ Base color (flat fill) ✅ Shadow color (hard edge, logical placement) ✅ Optional highlight (sparingly used) ✅ Clean boundaries (no color bleed) ✅ Consistent saturation level ✅ Harmonious relationship with adjacent colors
 
 Colors must NEVER: ❌ Gradient or blend softly ❌ Oversaturate unrealistically ❌ Clash violently (unless intentional horror) ❌ Appear muddy or grey (unless horror/elderly) ❌ Use more than 3 tones per element
 
-🔥 GOD-TIER ULTRA-PROFESSIONAL 2D CHARACTER CREATION PROMPT
+ GOD-TIER ULTRA-PROFESSIONAL 2D CHARACTER CREATION PROMPT
 
 PART 4 OF 10
 
-💀 HORROR CHARACTER SPECIFICATIONS & PSYCHOLOGICAL TERROR DESIGN
+ HORROR CHARACTER SPECIFICATIONS & PSYCHOLOGICAL TERROR DESIGN
 
-⚠️ HORROR MODE ACTIVATION:
+ HORROR MODE ACTIVATION:
 
 When user specifies "HORROR CHARACTER", ALL of these rules become MANDATORY:
 
 This section defines the complete transformation from normal to horror aesthetics. Horror characters must evoke unease through SUBTLETY and WRONGNESS, not gore or obvious monsters. The goal is psychological disturbance, not shock value.
 
-🎭 HORROR PHILOSOPHY & PRINCIPLES:
+ HORROR PHILOSOPHY & PRINCIPLES:
 
 Core Horror Aesthetic:
 
@@ -1303,7 +1303,7 @@ Frozen Moments: Character appears interrupted, not in natural state
 
 Aware Presence: Character seems conscious of viewer, not reacting
 
-🧬 HORROR FACIAL CONSTRUCTION:
+ HORROR FACIAL CONSTRUCTION:
 
 FACIAL ASYMMETRY (Micro-level):
 
@@ -1592,7 +1592,7 @@ Possibly more visible veins or discoloration
 
 No extreme modifications (keep subtle)
 
-💇 HAIR (Horror-Specific):
+ HAIR (Horror-Specific):
 
 Hair Quality & Texture:
 
@@ -1648,7 +1648,7 @@ OR thick but unkempt and heavy
 
 Never voluminous and bouncy
 
-👗 CLOTHING (Horror Characters):
+ CLOTHING (Horror Characters):
 
 Fabric & Style Selection:
 
@@ -1734,7 +1734,7 @@ Pockets sagging or distorted
 
 Sleeves pushed up or pulled down unevenly
 
-🎨 LIGHTING & ATMOSPHERE (Horror):
+ LIGHTING & ATMOSPHERE (Horror):
 
 Light Quality:
 
@@ -1778,7 +1778,7 @@ NO atmospheric glow or haze
 
 Lighting engineered for REALISM within stylized framework
 
-🧠 PSYCHOLOGICAL HORROR ELEMENTS:
+ PSYCHOLOGICAL HORROR ELEMENTS:
 
 The "Awareness" Factor:
 
@@ -1820,7 +1820,7 @@ Breathing not implied
 
 Like a paused video or photograph
 
-⚠️ HORROR INTENSITY LEVELS:
+ HORROR INTENSITY LEVELS:
 
 The user may specify intensity. If not specified, default to MEDIUM.
 
@@ -1916,7 +1916,7 @@ PLUS: Extreme hollowness (skull-like)
 
 Still recognizably human structure
 
-🚫 HORROR PROHIBITIONS:
+ HORROR PROHIBITIONS:
 
 NEVER Include in Horror Characters:
 
@@ -1950,13 +1950,13 @@ When creating horror character, VERIFY:
 ✅ NO obvious gore or monsters
 ✅ Overall feeling: UNSETTLING not SHOCKING
 
-🔥 GOD-TIER ULTRA-PROFESSIONAL 2D CHARACTER CREATION PROMPT
+ GOD-TIER ULTRA-PROFESSIONAL 2D CHARACTER CREATION PROMPT
 
 PART 5 OF 10
 
-👔 CLOTHING CONSTRUCTION, FABRIC SYSTEMS & PROFESSIONAL WARDROBE
+CLOTHING CONSTRUCTION, FABRIC SYSTEMS & PROFESSIONAL WARDROBE
 
-🎯 CLOTHING PHILOSOPHY & PRINCIPLES:
+CLOTHING PHILOSOPHY & PRINCIPLES:
 
 Core Clothing Approach:
 
@@ -1982,7 +1982,7 @@ Low detail: Lower legs, feet, background elements
 
 Focus attention where viewer naturally looks first
 
-📐 CLOTHING CONSTRUCTION FUNDAMENTALS:
+ CLOTHING CONSTRUCTION FUNDAMENTALS:
 
 FIT & DRAPE PRINCIPLES:
 
